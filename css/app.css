@@ -1,0 +1,15 @@
+ol li::first-letter {
+	text-transform: uppercase;
+}
+
+.color-sample {
+	float: left;
+	width: 20px;
+	height: 20px;
+	margin-right: 5px;
+	border: 1px solid #333;
+}
+
+#uniqueColors .color-container {
+	padding: 2px;
+}
